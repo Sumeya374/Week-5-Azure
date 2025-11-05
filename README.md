@@ -8,3 +8,5 @@ In Week 5, I learnt about cloud computing and its characteristics. I became able
 - Current data related legislation
 - Azure services
 - Azure storage
+
+![Azure Portal screenshot for querying a dataset](azure-query-dataset.jpg)
