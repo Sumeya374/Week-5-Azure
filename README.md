@@ -1,2 +1,10 @@
 # Week 5 Azure
 In Week 5, I learnt about cloud computing and its characteristics. I became able to differentiate between Iaas, PaaS and SaaS deployment models, recognise the key components of security, and identify major cloud providers such as AWS and Azure. I gained an understanding of the services azure offers and the role of current legislation in protecting users and their data.  Moreover, I explored relational and non relational data as well as data analytics in Azure.
+
+**Knowledge gained:**
+- Cloud computing
+- Iaas, PaaS and SaaS deployment models
+- Cloud computing
+- Current data related legislation
+- Azure services
+- Azure storage
